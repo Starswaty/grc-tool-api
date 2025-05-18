@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+openai=0.28.0
+plotly
+pydantic
+requests
